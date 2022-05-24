@@ -1,0 +1,21 @@
+{
+  "name": "new-node",
+  "version": "1.0.0",
+  "description": "new node tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "this",
+    "is",
+    "a",
+    "tutorial"
+  ],
+  "author": "anjali sharma",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.0",
+    "colors": "^1.4.0"
+  }
+}
